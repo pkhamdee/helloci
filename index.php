@@ -1,4 +1,1 @@
-<?php 
-echo 'Hello PHP!';
-phpinfo();
-?>
+<?php phpinfo(); ?>
